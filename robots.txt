@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khsug9090-svg.github.io/t3-campaign-mu2j94ay-7637/sitemap.xml
